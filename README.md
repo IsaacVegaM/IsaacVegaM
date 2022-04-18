@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacVegaM
 - 👀 I’m interested in Data Science and Data Viz
-- 🌱 I’m currently learning R!
+- 🌱 I’m currently learning R and python!
 
 <!---
 IsaacVegaM/IsaacVegaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
